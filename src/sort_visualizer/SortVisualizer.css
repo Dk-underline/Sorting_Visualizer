@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.array-container {
+  /* height: 100%;
+    width: 100%; */
+  margin-top: 0px;
+  position: absolute;
+  left: 100px;
+  top: 80px;
+}
+
+.array-bar {
+  width: 3.5px;
+  display: inline-block;
+  margin: 0 1px;
+  color: black;
+}
+
+button {
+  margin: 4px;
+  padding: 2px;
+}
